@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": "oothee9easi4Egh4eFoo",
+    "name": "user123",
+    "email": "user123@example.org",
+    "passport_nr": "J1234567890",
+    "country": "de",
+    "created_at": "2018-12-06 18:19:23 UTC",
+    "password_hash": "ijdikfiodkfopdkdfd",
+    "timestamp_pwd": "2018-12-06 18:19:23 UTC",
+  },
+  "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
+  "reputation": 0
+}
