@@ -1,16 +1,18 @@
 {
   "data": {
     "id": "ohkee4aphaeChie7haik",
-    "target_type": "product",
-    "target_id": "QheCRxwyyLQ7jO7Ljgx5",
-    "information_id": "koroo9iePhoonah3Cor9",
-    "created_by": {"id": "Teizoozeeyu3ieno7yi7", "name": "sustainability_user"},
+    "targetType": "product",
+    "targetId": "QheCRxwyyLQ7jO7Ljgx5",
+    "informationId": "koroo9iePhoonah3Cor9",
+    "createdBy": "sustainability_user",
     "timestamp": "2019-01-02 21:54:26 UTC",
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
-  "score": {"ecological": -0.34,
-            "social": -0.07,
-            "economical": 0.21},
+  "score": {"environment": -0.34,
+            "climate": -0.46,
+            "society": -0.07,
+            "health": -0.78,
+            "economy": 0.21},
   "weight": 1,
   "status": "active"
 }

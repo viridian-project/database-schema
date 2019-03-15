@@ -1,18 +1,19 @@
 {
   "data": {
-    "id": "8ISklslwopsl29klsl9w",
     "name": "Wander AG",
     "address": "Switzerland",
     "url": "https://www.wander.ch",
-    "created_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "created_at": "2018-12-23 18:01:12 UTC",
-    "updated_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "updated_at": "2018-02-23 18:11:58 UTC",
+    "createdBy": "user123",
+    "createdAt": "2018-12-23 18:01:12 UTC",
+    "updatedBy": "user123",
+    "updatedAt": "2018-02-23 18:11:58 UTC",
     "labels": [],
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
-  "score": {"ecological": -0.34,
-            "social": -0.07,
-            "economical": 0.21},
+  "score": {"environment": -0.34,
+            "climate": -0.46,
+            "society": -0.07,
+            "health": -0.78,
+            "economy": 0.21},
   "status": "active"
 }

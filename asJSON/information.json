@@ -1,10 +1,10 @@
 {
   "data": {
     "id": "koroo9iePhoonah3Cor9",
-    "created_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "created_at": "2018-12-26 11:51:48 UTC",
-    "updated_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "updated_at": "2018-12-26 11:51:48 UTC",
+    "createdBy": "user123",
+    "createdAt": "2018-12-26 11:51:48 UTC",
+    "updatedBy": "user123",
+    "updatedAt": "2018-12-26 11:51:48 UTC",
     "locale": {
       "de": {
         "title": "Ovomaltine verwendet Kakao von Plantagen mit Kinderarbeit",
@@ -12,17 +12,17 @@
       }
     },
     "category": "Information",
-    "target_type": "product",
-    "target_id": "QheCRxwyyLQ7jO7Ljgx5",
+    "targetType": "product",
+    "targetId": "QheCRxwyyLQ7jO7Ljgx5",
     "source": [
       {"type": "url", "url": "https://www.example.org/ovomaltine_child_labor"},
       {"type": "url", "url": "https://www.guardian.co.uk/2018-12/ovomaltine_uses_cocoa_produced_with_child_labor"},
       {"type": "book", "title": "Child labor in chocolate spreads", "author": "J. Doe", "year": 2017, "isbn": "978-3-86680-192-9"}
     ],
-    "flagged_as": "missing_sources",
-    "flagged_by": {"id": "Teizoozeeyu3ieno7yi7", "name": "sustainability_user"},
-    "flagged_at": "2019-01-11 23:21:01 UTC",
-    "flagged_comment": "This information seems to be fake, sources don't exist."
+    "flaggedAs": "missing_sources",
+    "flaggedBy": "sustainability_user",
+    "flaggedAt": "2019-01-11 23:21:01 UTC",
+    "flaggedComment": "This information seems to be fake, sources don't exist."
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
   "weight": 1,

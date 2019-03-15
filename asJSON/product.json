@@ -1,13 +1,13 @@
 {
   "data": {
     "id": "QheCRxwyyLQ7jO7Ljgx5",
-    "ean": 7612100055557,
-    "created_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "created_at": "2018-12-24 12:11:54 UTC",
-    "updated_by": {"id": "oothee9easi4Egh4eFoo", "name": "user123"},
-    "updated_at": "2018-02-10 18:33:39 UTC",
+    "gtin": 7612100055557,
+    "createdBy": "user123",
+    "createdAt": "2018-12-24 12:11:54 UTC",
+    "updatedBy": "user123",
+    "updatedAt": "2018-02-10 18:33:39 UTC",
     "producer": "Wander AG",
-    "contained_products": [],
+    "containedProducts": [],
     "labels": [
       {"id": "H2892sKSksksdkwops9", "name": "UTZ"}
     ],
@@ -15,19 +15,22 @@
       "de": {
         "name": "Ovomaltine crunchy cream — 400 g",
         "price": 4.99,
+        "currency": "€",
         "description": "Brotaufstrich mit malzhaltigem Getränkepulver Ovomaltine",
         "quantity": "400 g",
         "ingredients": "33% malzhaltiges Getränkepulver: Ovomaltine (Gerstenmalzextrakt, kondensierte Magermilch, kondensiertes Milchserum, fettarmer Kakao, Zucker, Fruktose, Magnesiumcarbonat, Calciumphosphat, Rapsöl, Vitamine [A, E, B1, B2, Pantothensäure, B6, Folsäure, B12, C, Biotin, Niacin], Kochsalz, Aroma Vanillin), Zucker, Pflanzenöle (Raps- und Palmöl), 2.6% Haselnüsse, Calciumphosphat, fettarmer Kakao, Emulgator Sonnenblumenlecithin, Aroma Vanillin.",
         "image": "products/1/de_1.png",
-        "product_url": "http://www.ovomaltine.de/produkte/ovomaltine-crunchy-cream-1/",
+        "productUrl": "http://www.ovomaltine.de/produkte/ovomaltine-crunchy-cream-1/",
         "packaging": ["Glas", "Plastik"],
         "categories": ["Brotaufstriche", "Frühstück", "Nougatcremes"],
       }
     }
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
-  "score": {"ecological": -0.34,
-            "social": -0.07,
-            "economical": 0.21},
+  "score": {"environment": -0.34,
+            "climate": -0.46,
+            "society": -0.07,
+            "health": -0.78,
+            "economy": 0.21},
   "status": "active"
 }
