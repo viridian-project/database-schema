@@ -27,7 +27,7 @@
   "locale": {
     "de": {
       "name": "Ovomaltine crunchy cream — 400 g",
-      "price": 4.99,
+      "price": "4.99",
       "price_comment": "// UVP",
       "description": "Brotaufstrich mit malzhaltigem Getränkepulver Ovomaltine",
       "quantity": "400 g",

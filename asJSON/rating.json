@@ -8,11 +8,11 @@
     "timestamp": "2019-01-02 21:54:26 UTC",
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
-  "score": {"environment": -0.34,
-            "climate": -0.46,
-            "society": -0.07,
-            "health": -0.78,
-            "economy": 0.21},
+  "score": {"environment": -34,
+            "climate": -46,
+            "society": -7,
+            "health": -78,
+            "economy": 21},
   "weight": 1,
   "status": "active"
 }

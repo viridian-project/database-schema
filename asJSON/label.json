@@ -8,7 +8,7 @@
     "updatedAt": "2018-02-23 18:11:58 UTC",
     "locale": {
       "de": {
-        "name": "UTZ",
+        "name": "UTZ zertifiziert",
         "description": "Siegelgeber: UTZ ist ein unabhängiges, gemeinnütziges und nicht-staatliches Siegel sowie Programm zur Förderung eines offenen und transparenten Marktes für sozial und ökologisch verantwortungsvolle Agrarprodukte. Ziel/Schwerpunkt: Die drei wesentlichen Bestandteile von UTZ zur Erreichung dieser Ziele sind: Das UTZ-System zur Rückverfolgung, der UTZ Verhaltenskodex und die Dokumente für die Überwachung der Lieferkette.",
         "categories": ["Lebensmittel"]
       }
@@ -16,11 +16,11 @@
     "version": "1"
   },
   "signature": "0x1f62a52c86fe9021b2834cd838392ed0192991a3",
-  "score": {"environment": -0.34,
-            "climate": -0.46,
-            "society": -0.07,
-            "health": -0.78,
-            "economy": 0.21,
-            "credibility": -0.10},
+  "score": {"environment": -34,
+            "climate": -46,
+            "society": -7,
+            "health": -78,
+            "economy": 21,
+            "credibility": -10},
   "status": "active"
 }
