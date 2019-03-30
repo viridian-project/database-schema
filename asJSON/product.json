@@ -1,6 +1,6 @@
 {
   "data": {
-    "id": "QheCRxwyyLQ7jO7Ljgx5",
+    "id": "61b744a3-7f5d-4500-8c59-959913762ecd",
     "gtin": "7612100055557",
     "createdBy": "user123",
     "createdAt": "2018-12-24 12:11:54 UTC",
@@ -23,7 +23,7 @@
         "packaging": ["Glas", "Plastik"],
         "categories": ["Brotaufstriche", "Frühstück", "Nougatcremes"],
         "image": "products/1/de_1.png",
-        "productUrl": "http://www.ovomaltine.de/produkte/ovomaltine-crunchy-cream-1/",
+        "productUrl": "http://www.ovomaltine.de/produkte/ovomaltine-crunchy-cream-1/"
       }
     ]
   },
