@@ -1,2 +1,4 @@
 *.jpg
+*.png
 *.ygf
+asGraph/database_schema_graph.svg
